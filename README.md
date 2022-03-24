@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe game made in Python
+Basic Tic Tac Toe CLI game made in python. Made it cause I was bored
